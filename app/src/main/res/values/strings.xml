@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Little Lemon</string>
+    <string name="title">Little Lemon</string>
+    <string name="location">Perú</string>
+    <string name="description">Somos un restaurante familiar mediterráneo que fusiona recetas tradicionales con un toque moderno.</string>
+    <string name="order_button_text">Ordenar para llevar</string>
+    <string name="weekly_special">Weekly Special</string>
+    <string name="add_for">Add for</string>
+</resources>
